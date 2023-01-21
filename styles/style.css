@@ -2,9 +2,6 @@
 .slide{
     background-color: rgb(250, 222, 222);
 }
-.carousel-control-prev-icon{
-    background-color: rgba(255, 0, 0, 0.185);
-}
-.carousel-control-next-icon{
-    background-color: rgba(255, 0, 0, 0.356);
+.icon-img{
+    width: 20px;
 }
